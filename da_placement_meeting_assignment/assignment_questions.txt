@@ -1,0 +1,7 @@
+ Module Name : Data Analytics   
+
+Solve following Questions for given data of  Insurance Premium Prediction
+
+Q1. Do complete data cleaning and Normalization.
+
+Q2. Do Data Vizualization Atleast 7 Graphs with explaination. 

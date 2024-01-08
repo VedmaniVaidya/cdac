@@ -1,0 +1,9 @@
+// Static block:
+// Static block is called whenever a class is loadd onto the jvm for the first time.
+// Static block is used to perform allocation of resources ie jdbc connectivity opening a file etc.
+// If we multiple static blocks in a class then, they are executed in the same sequence they appear in class.
+
+
+// 1. "this" is a reference refering to method invoking the object
+// 2. "this" keyword is used for constructor chaining (calling one constructor of a class from another constructor)
+// 3. "this" is used to overcome shadowing of instance variables

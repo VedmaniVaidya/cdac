@@ -1,0 +1,15 @@
+for each dtype in java there is a corresponding wrapper class
+int - Integer
+chat - Character
+float - float
+double - double
+long - long
+short - Short
+byte - Byte
+boolean - Boolean
+
+
+collections, multithreading and threading are important from interview pov
+
+
+Collection is called interface in java whereas Collections is called a utility class in java and both of them can be found in java.

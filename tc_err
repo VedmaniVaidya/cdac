@@ -1,0 +1,2 @@
+Node.js[60086]: ../../third_party/electron_node/src/node.cc:664:void node::ResetStdio(): Assertion `!(err != 0) || (err == -1 && (*__errno_location ()) == 1)' failed.
+Aborted (core dumped)

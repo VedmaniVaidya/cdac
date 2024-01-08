@@ -1,0 +1,290 @@
+
+
+this =>
+	1. "this" refers to the current scope.
+	2. "this" keyword is used for constructor chaining(calling one constructor of a class from another constructor of same class).
+	3. "this" keyword is used to avoid shadowing of instance variables.
+
+static =>
+
+	1. static block
+		a. It is called whenever a class is loaded onto the jvm for the first time.
+		b. It is used to perform initial setting related to that class e.g. database connectivity, resource allocation.
+		c. If a class has multiple static blocks then, they are executed in the same sequence as they are written inside the class.
+
+	2. static instance variable
+		a. For static instance variable of a class only one copy exists which is shared by all the objects.
+		b. We can initialize the static instance variable inside the static block.
+
+	3. static method
+		a. Static method of a class can be called without object.
+				ClassName.MethodName()
+		b. Static method can access only static instance variables of a class.
+
+	4. static import
+		a. Static import will import only static things(static variables/methods) of a class.
+		b. With static import we can call a static method even without a class name.
+
+----------------------------------------------------------------------------------------------------------------
+
+	Containment - "Has A"
+
+	Inheritance - "Is A"
+--------------------------------------------------------------------------------------------------------------	
+
+abstract -
+		1. An abstract method is a method with only declaration and no definition.
+
+		2. An abstract method has to be written only inside abstract class but, an abstract class can have abstract as well as
+		   concrete methods
+
+		3. An interface has all the methods declared as abstract by default. 
+
+		4. A class cannot be extended from more than one class but it can implement more than one interface.
+
+		5. One interface can extend another interface.
+
+		6. Marker inteface - It is an interface without any method inside that. e.g. Serializable, Cloneable
+
+		7. Functional interface - It is an interface with only one method inside that. e.g. Runnable, Consumer, Predicate, Supplier
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+				Collection					Collections
+
+			   This is an interface				      This is a class
+----------------------------------------------------------------------------------------------------------------------------------------
+
+				Vector						ArrayList
+
+		Vector gets double (100% increase) 			ArrayList increases by 50% in size
+		of its original size when it is full			when it is full
+
+		Methods of class Vector are synchronized		Methods of ArrayList are non synchronized
+
+		Slower in execution with respect to			Faster in execution with respect to Vector
+		ArrayList
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+			ArrayList						LinkedList
+
+	       Internally uses dynamic array				Internally implemented as doubly linked list
+
+	       Insertion/deletion of element				Insertion/deletion of element is faster compared 
+	       is slower compared to LinkedList				to ArrayList
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+HashSet - It is a collection of unique elements and order of insertion of elements is not preserved.
+
+LinkedHashSet - It is a collection of unique elements and order of insertion of elements is preserved.
+
+TreeSet - It is a collection of unique and sorted elements.
+
+-------------------------------------------------------------------------------------------------------------------
+
+		
+HashMap - It is a collection of unique elements and order of insertion of elements is not preserved. (Each element is a pair of key and value.)
+
+LinkedHashMap - It is a collection of unique elements and order of insertion of elements is preserved. (Each element is a pair of key and value.)
+
+TreeMap - It is a collection of unique and sorted elements.(Each element is a pair of key and value.)
+
+-------------------------------------------------------------------------------------------------------------------
+
+			HashMap						Hashtable
+
+		Methods are non-synchronized			Methods are synchronized
+
+		faster in execution				slower in execution
+
+		NULL values are acceptable			NULL values are not acceptable
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+			Comparable					Comparator
+
+	1. This is default criterial (natural			This is customized criteria to compare
+	   ordering) to compare two objects			two objects of a class
+	   of a class
+
+	2. Need to override method "compareTo"			Need to override method "compare"
+
+
+	3. It is inside package java.lang			This is present inside package java.util
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

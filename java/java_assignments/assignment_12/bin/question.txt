@@ -1,0 +1,12 @@
+Write a class Account with attributes for account-number(integer) name(string), balance(double)
+
+wtite a menu driven code to 
+1. Accept a record of an account holder and save it into binary file "account_data.dat".
+2. Display all the recors from biary file into "ArrayList" and print using lambda function.
+(Load all records from binary file into "ArrayList" and print using lambda syntax)
+3. Deposit an amount into a particular account of existing records. 
+(Load all records from binary file into "ArrayList" and search on the basis of account-number. Write updated data back into the file).
+4. Withdraw an amount from a particular account of existing records. Search on basis of account-number.
+(Load all records from binary file into "ArrayList" and search on the basis of account-number. Write updated data back into the file).
+5. Display account details of account holders having balance less than 20000.
+(Load all records from binary file into "ArrayList" and search on the basis of account-number and use "filter" stream-api and print using lambda syntax).

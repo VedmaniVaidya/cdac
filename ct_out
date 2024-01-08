@@ -1,0 +1,603 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+[2023-11-20 18:43:38] info Creating tunnel with the name: compute
+
+Open this link in your browser https://insiders.vscode.dev/tunnel/compute/home/dai/35/projects/cdai
+
+[2023-11-20 20:33:48] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 2
+[2023-11-20 20:33:48] info [russh::server] wrote id
+[2023-11-20 20:33:48] info [russh::server] read other id
+[2023-11-20 20:33:48] info [russh::server] session is running
+[2023-11-20 20:33:52] info [rpc.0] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/pid.txt for a running server...
+[2023-11-20 20:33:53] info [rpc.0] Downloading Visual Studio Code server -> /tmp/.tmpTzCxKW/vscode-server-linux-x64.tar.gz
+[2023-11-20 20:33:55] info [rpc.0] Starting server...
+[2023-11-20 20:33:55] info [rpc.0] Server started
+[2023-11-20 20:40:55] info [rpc.0] Disposed of connection to running server.
+[2023-11-20 20:41:10] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 3
+[2023-11-20 20:41:10] info [russh::server] wrote id
+[2023-11-20 20:41:10] info [russh::server] read other id
+[2023-11-20 20:41:10] info [russh::server] session is running
+[2023-11-20 20:41:12] info [rpc.2] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/pid.txt for a running server...
+[2023-11-20 20:41:12] info [rpc.2] Found running server (pid=66969)
+[2023-11-20 20:58:42] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 4
+[2023-11-20 20:58:42] info [russh::server] wrote id
+[2023-11-20 20:58:42] info [russh::server] read other id
+[2023-11-20 20:58:42] info [russh::server] session is running
+[2023-11-20 20:58:48] info [rpc.3] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/pid.txt for a running server...
+[2023-11-20 20:58:48] info [rpc.3] Found running server (pid=66969)
+[2023-11-20 20:58:53] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 5
+[2023-11-20 20:58:53] info [russh::server] wrote id
+[2023-11-20 20:58:53] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 6
+[2023-11-20 20:58:53] info [russh::server] wrote id
+[2023-11-20 20:58:53] info [russh::server] read other id
+[2023-11-20 20:58:53] info [russh::server] session is running
+[2023-11-20 20:58:53] info [russh::server] read other id
+[2023-11-20 20:58:53] info [russh::server] session is running
+[2023-11-20 20:58:56] warn [rpc.3] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 20:59:46] info [rpc.4] Disposed of connection to running server.
+[2023-11-20 20:59:46] info [rpc.5] Disposed of connection to running server.
+[2023-11-20 20:59:59] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 7
+[2023-11-20 20:59:59] info [russh::server] wrote id
+[2023-11-20 20:59:59] info [russh::server] read other id
+[2023-11-20 20:59:59] info [russh::server] session is running
+[2023-11-20 21:00:02] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 8
+[2023-11-20 21:00:02] info [russh::server] wrote id
+[2023-11-20 21:00:02] info [russh::server] read other id
+[2023-11-20 21:00:02] info [russh::server] session is running
+[2023-11-20 21:29:43] info [rpc.3] Disposed of connection to running server.
+[2023-11-20 21:29:45] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 9
+[2023-11-20 21:29:45] info [russh::server] wrote id
+[2023-11-20 21:29:45] info [russh::server] read other id
+[2023-11-20 21:29:45] info [russh::server] session is running
+[2023-11-20 21:29:48] info [rpc.8] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/pid.txt for a running server...
+[2023-11-20 21:29:48] info [rpc.8] Found running server (pid=66969)
+[2023-11-20 21:35:33] info [rpc.2] Disposed of connection to running server.
+[2023-11-20 22:10:55] info [rpc.7] Disposed of connection to running server.
+[2023-11-20 22:10:55] info [rpc.6] Disposed of connection to running server.
+[2023-11-20 22:11:17] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 10
+[2023-11-20 22:11:17] info [russh::server] wrote id
+[2023-11-20 22:11:18] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 11
+[2023-11-20 22:11:18] info [russh::server] wrote id
+[2023-11-20 22:11:18] info [russh::server] read other id
+[2023-11-20 22:11:18] info [russh::server] session is running
+[2023-11-20 22:11:18] info [russh::server] read other id
+[2023-11-20 22:11:18] info [russh::server] session is running
+[2023-11-20 22:12:11] warn [rpc.8] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 22:12:11] warn [rpc.8] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 22:12:11] warn [rpc.8] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 22:16:17] info [rpc.8] Forwarding port 35241
+[2023-11-20 22:19:28] warn [rpc.8] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 22:19:37] info [rpc.8] Forwarding port 32823
+[2023-11-20 22:27:07] info [rpc.9] Disposed of connection to running server.
+[2023-11-20 22:27:07] info [rpc.10] Disposed of connection to running server.
+[2023-11-20 22:27:36] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 12
+[2023-11-20 22:27:36] info [russh::server] wrote id
+[2023-11-20 22:27:36] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 13
+[2023-11-20 22:27:36] info [russh::server] wrote id
+[2023-11-20 22:27:36] info [russh::server] read other id
+[2023-11-20 22:27:36] info [russh::server] session is running
+[2023-11-20 22:27:36] info [russh::server] read other id
+[2023-11-20 22:27:36] info [russh::server] session is running
+[2023-11-20 22:27:47] info [rpc.8] Forwarding port 35241
+[2023-11-20 22:27:48] info [rpc.8] Forwarding port 32823
+[2023-11-20 22:27:50] info [rpc.8] Forwarding port 45113
+[2023-11-20 22:28:32] info [rpc.11] Disposed of connection to running server.
+[2023-11-20 22:28:32] info [rpc.12] Disposed of connection to running server.
+[2023-11-20 22:30:15] info [rpc.8] Disposed of connection to running server.
+[2023-11-20 22:33:48] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 14
+[2023-11-20 22:33:48] info [russh::server] wrote id
+[2023-11-20 22:33:48] info [russh::server] read other id
+[2023-11-20 22:33:48] info [russh::server] session is running
+[2023-11-20 22:33:53] info [rpc.13] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-e0b9ba5710060c8a8014f8a12980f011d81fb844/pid.txt for a running server...
+[2023-11-20 22:33:53] info [rpc.13] Starting server...
+[2023-11-20 22:33:53] info [rpc.13] Server started
+[2023-11-20 22:34:06] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 15
+[2023-11-20 22:34:06] info [russh::server] wrote id
+[2023-11-20 22:34:06] info [russh::server] read other id
+[2023-11-20 22:34:06] info [russh::server] session is running
+[2023-11-20 22:34:09] warn [rpc.13] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 22:34:15] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 16
+[2023-11-20 22:34:15] info [russh::server] wrote id
+[2023-11-20 22:34:15] info [russh::server] read other id
+[2023-11-20 22:34:15] info [russh::server] session is running
+[2023-11-20 22:36:20] info [rpc.15] Disposed of connection to running server.
+[2023-11-20 22:36:20] info [rpc.16] Disposed of connection to running server.
+[2023-11-20 22:36:28] warn [rpc.13] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 22:36:28] warn [rpc.13] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-20 22:36:38] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 17
+[2023-11-20 22:36:38] info [russh::server] wrote id
+[2023-11-20 22:36:38] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 18
+[2023-11-20 22:36:38] info [russh::server] wrote id
+[2023-11-20 22:36:38] info [russh::server] read other id
+[2023-11-20 22:36:38] info [russh::server] session is running
+[2023-11-20 22:36:41] info [russh::server] read other id
+[2023-11-20 22:36:41] info [russh::server] session is running
+[2023-11-20 22:36:45] info [rpc.13] Forwarding port 36905
+[2023-11-20 22:37:02] info [rpc.13] Forwarding port 35173
+[2023-11-20 22:37:18] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 19
+[2023-11-20 22:37:18] info [russh::server] wrote id
+[2023-11-20 22:37:18] info [russh::server] read other id
+[2023-11-20 22:37:18] info [russh::server] session is running
+[2023-11-20 22:37:18] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 20
+[2023-11-20 22:37:18] info [russh::server] wrote id
+[2023-11-20 22:37:18] info [russh::server] read other id
+[2023-11-20 22:37:18] info [russh::server] session is running
+[2023-11-20 22:37:19] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 21
+[2023-11-20 22:37:19] info [russh::server] wrote id
+[2023-11-20 22:37:19] info [russh::server] read other id
+[2023-11-20 22:37:19] info [russh::server] session is running
+[2023-11-20 22:37:19] info [tunnels::connections::relay_tunnel_host] Error connecting forwarding to port 35173, Connection refused (os error 111)
+[2023-11-20 22:37:38] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 22
+[2023-11-20 22:37:38] info [russh::server] wrote id
+[2023-11-20 22:37:38] info [russh::server] read other id
+[2023-11-20 22:37:38] info [russh::server] session is running
+[2023-11-20 22:37:38] info [tunnels::connections::relay_tunnel_host] Error connecting forwarding to port 35173, Connection refused (os error 111)
+[2023-11-20 22:39:57] info [rpc.17] Disposed of connection to running server.
+[2023-11-20 22:39:57] info [rpc.18] Disposed of connection to running server.
+[2023-11-20 22:40:28] info [rpc.13] Disposed of connection to running server.
+[2023-11-23 10:38:23] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 23
+[2023-11-23 10:38:23] info [russh::server] wrote id
+[2023-11-23 10:38:23] info [russh::server] read other id
+[2023-11-23 10:38:23] info [russh::server] session is running
+[2023-11-23 10:38:27] info [rpc.19] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/pid.txt for a running server...
+[2023-11-23 10:38:28] info [rpc.19] Downloading Visual Studio Code server -> /tmp/.tmptdjUPn/vscode-server-linux-x64.tar.gz
+[2023-11-23 10:38:31] info [rpc.19] Starting server...
+[2023-11-23 10:38:31] info [rpc.19] Server started
+[2023-11-23 10:45:18] info [rpc.19] Disposed of connection to running server.
+[2023-11-23 10:45:31] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 24
+[2023-11-23 10:45:31] info [russh::server] wrote id
+[2023-11-23 10:45:31] info [russh::server] read other id
+[2023-11-23 10:45:31] info [russh::server] session is running
+[2023-11-23 10:45:33] info [rpc.21] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/pid.txt for a running server...
+[2023-11-23 10:45:33] info [rpc.21] Found running server (pid=120980)
+[2023-11-23 12:04:59] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 25
+[2023-11-23 12:04:59] info [russh::server] wrote id
+[2023-11-23 12:04:59] info [russh::server] read other id
+[2023-11-23 12:04:59] info [russh::server] session is running
+[2023-11-23 12:05:01] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 26
+[2023-11-23 12:05:01] info [russh::server] wrote id
+[2023-11-23 12:05:02] info [russh::server] read other id
+[2023-11-23 12:05:02] info [russh::server] session is running
+[2023-11-23 12:05:04] info [rpc.22] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/pid.txt for a running server...
+[2023-11-23 12:05:04] info [rpc.22] Found running server (pid=120980)
+[2023-11-23 12:05:04] info [rpc.23] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/pid.txt for a running server...
+[2023-11-23 12:05:04] info [rpc.23] Found running server (pid=120980)
+[2023-11-23 12:09:12] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 27
+[2023-11-23 12:09:12] info [russh::server] wrote id
+[2023-11-23 12:09:12] info [russh::server] read other id
+[2023-11-23 12:09:12] info [russh::server] session is running
+[2023-11-23 12:10:17] info [rpc.21] Disposed of connection to running server.
+[2023-11-23 13:04:44] info [rpc.22] Disposed of connection to running server.
+[2023-11-23 13:05:07] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 28
+[2023-11-23 13:05:07] info [russh::server] wrote id
+[2023-11-23 13:05:07] info [russh::server] read other id
+[2023-11-23 13:05:07] info [russh::server] session is running
+[2023-11-23 13:05:42] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 29
+[2023-11-23 13:05:42] info [russh::server] wrote id
+[2023-11-23 13:05:42] info [russh::server] read other id
+[2023-11-23 13:05:42] info [russh::server] session is running
+[2023-11-23 13:05:47] info [rpc.23] Disposed of connection to running server.
+[2023-11-23 13:06:03] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 30
+[2023-11-23 13:06:03] info [russh::server] wrote id
+[2023-11-23 13:06:03] info [russh::server] read other id
+[2023-11-23 13:06:03] info [russh::server] session is running
+[2023-11-23 13:06:06] info [rpc.24] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/pid.txt for a running server...
+[2023-11-23 13:06:06] info [rpc.24] Found running server (pid=120980)
+[2023-11-23 14:36:40] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 31
+[2023-11-23 14:36:40] info [russh::server] wrote id
+[2023-11-23 14:36:40] info [russh::server] read other id
+[2023-11-23 14:36:40] info [russh::server] session is running
+[2023-11-23 14:36:44] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 32
+[2023-11-23 14:36:44] info [russh::server] wrote id
+[2023-11-23 14:36:44] info [russh::server] read other id
+[2023-11-23 14:36:44] info [russh::server] session is running
+[2023-11-23 14:45:27] info [rpc.24] Disposed of connection to running server.
+[2023-11-23 14:45:55] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 33
+[2023-11-23 14:45:55] info [russh::server] wrote id
+[2023-11-23 14:45:55] info [russh::server] read other id
+[2023-11-23 14:45:55] info [russh::server] session is running
+[2023-11-23 14:46:03] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 34
+[2023-11-23 14:46:03] info [russh::server] wrote id
+[2023-11-23 14:46:03] info [russh::server] read other id
+[2023-11-23 14:46:03] info [russh::server] session is running
+[2023-11-23 14:46:05] info [rpc.25] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/pid.txt for a running server...
+[2023-11-23 14:46:05] info [rpc.25] Found running server (pid=120980)
+[2023-11-23 15:02:12] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 35
+[2023-11-23 15:02:12] info [russh::server] wrote id
+[2023-11-23 15:02:12] info [russh::server] read other id
+[2023-11-23 15:02:12] info [russh::server] session is running
+[2023-11-23 15:02:12] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 36
+[2023-11-23 15:02:12] info [russh::server] wrote id
+[2023-11-23 15:02:13] info [russh::server] read other id
+[2023-11-23 15:02:13] info [russh::server] session is running
+[2023-11-23 15:02:16] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 37
+[2023-11-23 15:02:16] info [russh::server] wrote id
+[2023-11-23 15:02:16] info [russh::server] read other id
+[2023-11-23 15:02:16] info [russh::server] session is running
+[2023-11-23 15:11:35] info [rpc.25] Disposed of connection to running server.
+[2023-11-23 15:11:53] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 38
+[2023-11-23 15:11:53] info [russh::server] wrote id
+[2023-11-23 15:11:53] info [russh::server] read other id
+[2023-11-23 15:11:53] info [russh::server] session is running
+[2023-11-23 15:12:03] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 39
+[2023-11-23 15:12:03] info [russh::server] wrote id
+[2023-11-23 15:12:03] info [russh::server] read other id
+[2023-11-23 15:12:03] info [russh::server] session is running
+[2023-11-23 15:12:06] info [rpc.26] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-9524207999ef1159f5e973539d68c69ed1b519f2/pid.txt for a running server...
+[2023-11-23 15:12:06] info [rpc.26] Found running server (pid=120980)
+[2023-11-23 15:29:13] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 40
+[2023-11-23 15:29:13] info [russh::server] wrote id
+[2023-11-23 15:29:13] info [russh::server] read other id
+[2023-11-23 15:29:13] info [russh::server] session is running
+[2023-11-23 15:29:14] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 41
+[2023-11-23 15:29:14] info [russh::server] wrote id
+[2023-11-23 15:29:15] info [russh::server] read other id
+[2023-11-23 15:29:15] info [russh::server] session is running
+[2023-11-23 15:29:34] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 42
+[2023-11-23 15:29:34] info [russh::server] wrote id
+[2023-11-23 15:29:34] info [russh::server] read other id
+[2023-11-23 15:29:34] info [russh::server] session is running
+[2023-11-23 15:29:36] info [rpc.27] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 15:29:37] info [rpc.27] Downloading Visual Studio Code server -> /tmp/.tmps8jT6q/vscode-server-linux-x64.tar.gz
+[2023-11-23 15:29:40] info [rpc.27] Starting server...
+[2023-11-23 15:29:41] info [rpc.27] Server started
+[2023-11-23 15:32:08] info [rpc.26] Disposed of connection to running server.
+[2023-11-23 15:35:12] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 43
+[2023-11-23 15:35:12] info [russh::server] wrote id
+[2023-11-23 15:35:12] info [russh::server] read other id
+[2023-11-23 15:35:12] info [russh::server] session is running
+[2023-11-23 15:35:15] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 44
+[2023-11-23 15:35:15] info [russh::server] wrote id
+[2023-11-23 15:35:15] info [russh::server] read other id
+[2023-11-23 15:35:15] info [russh::server] session is running
+[2023-11-23 15:35:15] info [rpc.29] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 15:35:15] info [rpc.29] Found running server (pid=137617)
+[2023-11-23 15:35:17] info [rpc.30] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 15:35:17] info [rpc.30] Found running server (pid=137617)
+[2023-11-23 15:39:02] info [rpc.30] Forwarding port 9014
+[2023-11-23 15:39:03] info [rpc.30] Forwarding port 9012
+[2023-11-23 15:39:04] info [rpc.30] Forwarding port 9013
+[2023-11-23 15:39:05] info [rpc.30] Forwarding port 9010
+[2023-11-23 15:39:06] info [rpc.30] Forwarding port 9011
+[2023-11-23 15:39:07] info [rpc.30] Forwarding port 39991
+[2023-11-23 15:43:51] info [rpc.30] Forwarding port 9015
+[2023-11-23 15:43:53] info [rpc.30] Forwarding port 9018
+[2023-11-23 15:43:54] info [rpc.30] Forwarding port 9019
+[2023-11-23 15:43:55] info [rpc.30] Forwarding port 9016
+[2023-11-23 15:43:56] info [rpc.30] Forwarding port 9017
+[2023-11-23 15:43:58] info [rpc.30] Forwarding port 44295
+[2023-11-23 15:46:56] info [rpc.30] Forwarding port 9024
+[2023-11-23 15:46:57] info [rpc.30] Forwarding port 9022
+[2023-11-23 15:46:58] info [rpc.30] Forwarding port 9023
+[2023-11-23 15:46:58] info [rpc.30] Forwarding port 9020
+[2023-11-23 15:46:59] info [rpc.30] Forwarding port 9021
+[2023-11-23 15:47:00] info [rpc.30] Forwarding port 40105
+[2023-11-23 15:59:50] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 45
+[2023-11-23 15:59:50] info [russh::server] wrote id
+[2023-11-23 15:59:50] info [russh::server] read other id
+[2023-11-23 15:59:50] info [russh::server] session is running
+[2023-11-23 16:00:18] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 46
+[2023-11-23 16:00:18] info [russh::server] wrote id
+[2023-11-23 16:00:18] info [russh::server] read other id
+[2023-11-23 16:00:18] info [russh::server] session is running
+[2023-11-23 16:00:21] info [rpc.31] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 16:00:21] info [rpc.31] Found running server (pid=137617)
+[2023-11-23 16:00:29] info [rpc.31] Forwarding port 9014
+[2023-11-23 16:00:29] info [rpc.31] Forwarding port 9012
+[2023-11-23 16:00:29] info [rpc.31] Forwarding port 9013
+[2023-11-23 16:00:29] info [rpc.31] Forwarding port 9010
+[2023-11-23 16:08:14] info [rpc.31] Disposed of connection to running server.
+[2023-11-23 16:08:31] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 47
+[2023-11-23 16:08:31] info [russh::server] wrote id
+[2023-11-23 16:08:31] info [russh::server] read other id
+[2023-11-23 16:08:31] info [russh::server] session is running
+[2023-11-23 16:08:35] info [rpc.32] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 16:08:35] info [rpc.32] Found running server (pid=137617)
+[2023-11-23 16:08:54] info [rpc.32] Forwarding port 43871
+[2023-11-23 16:09:09] info [rpc.32] Disposed of connection to running server.
+[2023-11-23 16:09:23] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 48
+[2023-11-23 16:09:23] info [russh::server] wrote id
+[2023-11-23 16:09:23] info [russh::server] read other id
+[2023-11-23 16:09:23] info [russh::server] session is running
+[2023-11-23 16:09:26] info [rpc.33] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 16:09:26] info [rpc.33] Found running server (pid=137617)
+[2023-11-23 16:09:42] info [rpc.33] Forwarding port 32791
+[2023-11-23 16:09:45] info [rpc.29] Disposed of connection to running server.
+[2023-11-23 16:09:47] info [rpc.33] Disposed of connection to running server.
+[2023-11-23 16:09:53] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 49
+[2023-11-23 16:09:53] info [russh::server] wrote id
+[2023-11-23 16:09:53] info [russh::server] read other id
+[2023-11-23 16:09:53] info [russh::server] session is running
+[2023-11-23 16:09:56] info [rpc.34] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 16:09:56] info [rpc.34] Found running server (pid=137617)
+[2023-11-23 16:09:58] info [rpc.30] Disposed of connection to running server.
+[2023-11-23 16:10:17] info [rpc.34] Forwarding port 44153
+[2023-11-23 16:10:22] info [rpc.27] Disposed of connection to running server.
+[2023-11-23 16:17:13] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 50
+[2023-11-23 16:17:13] info [russh::server] wrote id
+[2023-11-23 16:17:13] info [russh::server] read other id
+[2023-11-23 16:17:13] info [russh::server] session is running
+[2023-11-23 16:17:20] info [rpc.35] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 16:17:20] info [rpc.35] Found running server (pid=137617)
+[2023-11-23 16:17:50] info [rpc.35] Forwarding port 37951
+[2023-11-23 16:19:42] info [rpc.34] Disposed of connection to running server.
+[2023-11-23 16:35:08] info [rpc.35] Disposed of connection to running server.
+[2023-11-23 16:35:47] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 51
+[2023-11-23 16:35:47] info [russh::server] wrote id
+[2023-11-23 16:35:48] info [russh::server] read other id
+[2023-11-23 16:35:48] info [russh::server] session is running
+[2023-11-23 16:36:03] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 52
+[2023-11-23 16:36:03] info [russh::server] wrote id
+[2023-11-23 16:36:03] info [russh::server] read other id
+[2023-11-23 16:36:03] info [russh::server] session is running
+[2023-11-23 16:36:05] info [rpc.36] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 16:36:05] info [rpc.36] Found running server (pid=137617)
+[2023-11-23 17:05:18] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 53
+[2023-11-23 17:05:18] info [russh::server] wrote id
+[2023-11-23 17:05:18] info [russh::server] read other id
+[2023-11-23 17:05:18] info [russh::server] session is running
+[2023-11-23 17:13:51] info [rpc.36] Disposed of connection to running server.
+[2023-11-23 17:14:11] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 54
+[2023-11-23 17:14:11] info [russh::server] wrote id
+[2023-11-23 17:14:11] info [russh::server] read other id
+[2023-11-23 17:14:11] info [russh::server] session is running
+[2023-11-23 17:15:03] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 55
+[2023-11-23 17:15:03] info [russh::server] wrote id
+[2023-11-23 17:15:03] info [russh::server] read other id
+[2023-11-23 17:15:03] info [russh::server] session is running
+[2023-11-23 17:15:05] info [rpc.37] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 17:15:05] info [rpc.37] Found running server (pid=137617)
+[2023-11-23 18:05:57] info [rpc.37] Disposed of connection to running server.
+[2023-11-23 18:50:15] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 56
+[2023-11-23 18:50:15] info [russh::server] wrote id
+[2023-11-23 18:50:15] info [russh::server] read other id
+[2023-11-23 18:50:15] info [russh::server] session is running
+[2023-11-23 18:50:17] info [rpc.38] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 18:50:17] info [rpc.38] Found running server (pid=137617)
+[2023-11-23 18:50:26] info [rpc.38] Forwarding port 9014
+[2023-11-23 18:50:26] info [rpc.38] Forwarding port 9012
+[2023-11-23 18:50:27] info [rpc.38] Forwarding port 9013
+[2023-11-23 18:50:27] info [rpc.38] Forwarding port 9010
+[2023-11-23 18:50:46] info [rpc.38] Forwarding port 46571
+[2023-11-23 19:06:58] info [rpc.38] Forwarding port 38413
+[2023-11-23 19:14:55] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 57
+[2023-11-23 19:14:55] info [russh::server] wrote id
+[2023-11-23 19:14:55] info [russh::server] read other id
+[2023-11-23 19:14:55] info [russh::server] session is running
+[2023-11-23 19:15:05] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 58
+[2023-11-23 19:15:05] info [russh::server] wrote id
+[2023-11-23 19:15:05] info [russh::server] read other id
+[2023-11-23 19:15:05] info [russh::server] session is running
+[2023-11-23 19:15:08] info [rpc.39] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 19:15:08] info [rpc.39] Found running server (pid=137617)
+[2023-11-23 19:15:13] info [rpc.39] Forwarding port 9014
+[2023-11-23 19:15:13] info [rpc.39] Forwarding port 9012
+[2023-11-23 19:15:14] info [rpc.39] Forwarding port 9013
+[2023-11-23 19:15:14] info [rpc.39] Forwarding port 9010
+[2023-11-23 19:15:28] info [rpc.39] Forwarding port 39809
+[2023-11-23 19:15:31] info [rpc.39] Forwarding port 44173
+[2023-11-23 19:29:16] info [rpc.38] Disposed of connection to running server.
+[2023-11-23 19:37:11] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 59
+[2023-11-23 19:37:11] info [russh::server] wrote id
+[2023-11-23 19:37:11] info [russh::server] read other id
+[2023-11-23 19:37:11] info [russh::server] session is running
+[2023-11-23 19:37:14] info [rpc.40] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 19:37:14] info [rpc.40] Found running server (pid=137617)
+[2023-11-23 19:37:14] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 60
+[2023-11-23 19:37:14] info [russh::server] wrote id
+[2023-11-23 19:37:14] info [russh::server] read other id
+[2023-11-23 19:37:14] info [russh::server] session is running
+[2023-11-23 19:37:17] info [rpc.41] Unforwarding port 9012
+[2023-11-23 19:37:17] info [rpc.41] Unforwarding port 9013
+[2023-11-23 19:37:17] info [rpc.41] Unforwarding port 9010
+[2023-11-23 19:37:17] info [rpc.41] Unforwarding port 9014
+[2023-11-23 19:37:17] info [rpc.41] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 19:37:17] info [rpc.41] Found running server (pid=137617)
+[2023-11-23 20:40:51] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 61
+[2023-11-23 20:40:51] info [russh::server] wrote id
+[2023-11-23 20:40:51] info [russh::server] read other id
+[2023-11-23 20:40:51] info [russh::server] session is running
+[2023-11-23 20:40:56] info [rpc.42] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 20:40:56] info [rpc.42] Found running server (pid=137617)
+[2023-11-23 20:40:57] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 62
+[2023-11-23 20:40:57] info [russh::server] wrote id
+[2023-11-23 20:40:57] info [russh::server] read other id
+[2023-11-23 20:40:57] info [russh::server] session is running
+[2023-11-23 20:40:59] info [rpc.40] Disposed of connection to running server.
+[2023-11-23 20:40:59] info [rpc.42] Disposed of connection to running server.
+[2023-11-23 20:40:59] info [rpc.41] Disposed of connection to running server.
+[2023-11-23 20:40:59] info [rpc.39] Disposed of connection to running server.
+[2023-11-23 20:41:15] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 63
+[2023-11-23 20:41:15] info [russh::server] wrote id
+[2023-11-23 20:41:15] info [russh::server] read other id
+[2023-11-23 20:41:15] info [russh::server] session is running
+[2023-11-23 20:41:18] info [rpc.43] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 20:41:18] info [rpc.43] Found running server (pid=137617)
+[2023-11-23 20:42:02] info [rpc.43] Disposed of connection to running server.
+[2023-11-23 20:42:08] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 64
+[2023-11-23 20:42:08] info [russh::server] wrote id
+[2023-11-23 20:42:08] info [russh::server] read other id
+[2023-11-23 20:42:08] info [russh::server] session is running
+[2023-11-23 20:42:11] info [rpc.44] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 20:42:11] info [rpc.44] Found running server (pid=137617)
+[2023-11-23 20:42:31] info [rpc.44] Forwarding port 46519
+[2023-11-23 20:42:34] info [rpc.44] Forwarding port 45825
+[2023-11-23 20:47:41] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 65
+[2023-11-23 20:47:41] info [russh::server] wrote id
+[2023-11-23 20:47:41] info [russh::server] read other id
+[2023-11-23 20:47:41] info [russh::server] session is running
+[2023-11-23 20:47:43] info [rpc.45] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 20:47:43] info [rpc.45] Found running server (pid=137617)
+[2023-11-23 20:48:01] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 66
+[2023-11-23 20:48:01] info [russh::server] wrote id
+[2023-11-23 20:48:01] info [russh::server] read other id
+[2023-11-23 20:48:01] info [russh::server] session is running
+[2023-11-23 20:48:03] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 67
+[2023-11-23 20:48:03] info [russh::server] wrote id
+[2023-11-23 20:48:03] info [rpc.46] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 20:48:03] info [russh::server] read other id
+[2023-11-23 20:48:03] info [russh::server] session is running
+[2023-11-23 20:48:03] info [rpc.46] Found running server (pid=137617)
+[2023-11-23 20:48:05] info [rpc.47] Unforwarding port 45825
+[2023-11-23 20:48:05] info [rpc.47] Unforwarding port 46519
+[2023-11-23 20:48:05] info [rpc.47] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 20:48:05] info [rpc.47] Found running server (pid=137617)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 20:50:00] warn [rpc.44] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:01:58] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 68
+[2023-11-23 21:01:58] info [russh::server] wrote id
+[2023-11-23 21:01:58] info [russh::server] read other id
+[2023-11-23 21:01:58] info [russh::server] session is running
+[2023-11-23 21:02:03] info [rpc.48] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-23 21:02:03] info [rpc.48] Found running server (pid=137617)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:03:50] warn [rpc.47] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2023-11-23 21:46:46] info [rpc.48] Forwarding port 39255
+[2023-11-24 00:25:01] info [rpc.48] Disposed of connection to running server.
+[2023-11-24 00:25:47] info [rpc.44] Disposed of connection to running server.
+[2023-11-24 00:26:01] info [rpc.46] Disposed of connection to running server.
+[2023-11-24 00:26:36] info [rpc.45] Disposed of connection to running server.
+[2023-11-24 00:27:09] info [rpc.47] Disposed of connection to running server.
+[2023-11-24 08:41:56] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 69
+[2023-11-24 08:41:56] info [russh::server] wrote id
+[2023-11-24 08:41:56] info [russh::server] read other id
+[2023-11-24 08:41:56] info [russh::server] session is running
+[2023-11-24 08:41:58] info [rpc.49] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-24 08:41:58] info [rpc.49] Starting server...
+[2023-11-24 08:41:58] info [rpc.49] Server started
+[2023-11-24 08:42:22] info [rpc.49] Forwarding port 37909
+[2023-11-24 08:42:24] info [rpc.49] Forwarding port 42809
+[2023-11-24 11:11:25] info [tunnels::connections::ws] websocket pong timed out, closing
+[2023-11-24 11:11:25] warn Tunnel exited unexpectedly but gracefully, reconnecting
+[2023-11-24 11:11:25] info [rpc.49] Disposed of connection to running server.
+[2023-11-24 11:11:45] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: dns error: failed to lookup address information: Temporary failure in name resolution
+[2023-11-24 11:11:47] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 2
+[2023-11-24 11:11:47] info [russh::server] wrote id
+[2023-11-24 11:11:47] info [russh::server] read other id
+[2023-11-24 11:11:47] info [russh::server] session is running
+[2023-11-24 11:12:16] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 3
+[2023-11-24 11:12:16] info [russh::server] wrote id
+[2023-11-24 11:12:16] info [russh::server] read other id
+[2023-11-24 11:12:16] info [russh::server] session is running
+[2023-11-24 11:12:18] info [rpc.51] Unforwarding port 37909
+[2023-11-24 11:12:18] info [rpc.51] Unforwarding port 42809
+[2023-11-24 11:12:18] info [rpc.51] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-24 11:12:18] info [rpc.51] Found running server (pid=224154)
+[2023-11-24 13:07:19] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 4
+[2023-11-24 13:07:19] info [russh::server] wrote id
+[2023-11-24 13:07:19] info [russh::server] read other id
+[2023-11-24 13:07:19] info [russh::server] session is running
+[2023-11-24 13:16:23] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 5
+[2023-11-24 13:16:23] info [russh::server] wrote id
+[2023-11-24 13:16:23] info [russh::server] read other id
+[2023-11-24 13:16:23] info [russh::server] session is running
+[2023-11-24 13:16:56] info [rpc.51] Disposed of connection to running server.
+[2023-11-24 13:17:16] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 6
+[2023-11-24 13:17:16] info [russh::server] wrote id
+[2023-11-24 13:17:16] info [russh::server] read other id
+[2023-11-24 13:17:16] info [russh::server] session is running
+[2023-11-24 13:17:18] info [rpc.52] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-ef71b038ad2518e32514b6cc3a4df9f94c096e65/pid.txt for a running server...
+[2023-11-24 13:17:18] info [rpc.52] Found running server (pid=224154)
+[2023-11-24 14:51:25] info [rpc.52] Forwarding port 40731
+[2023-11-24 14:54:11] info [rpc.52] Unforwarding port 40731
+[2023-11-24 14:54:13] info [rpc.52] Forwarding port 45547
+[2023-11-24 14:57:23] info [rpc.52] Unforwarding port 45547
+[2023-11-24 14:57:32] info [rpc.52] Forwarding port 35105
+[2023-11-24 15:04:57] info [rpc.52] Unforwarding port 35105
+[2023-11-24 15:04:58] info [rpc.52] Forwarding port 35627
+[2023-11-24 16:19:19] info [rpc.52] Unforwarding port 35627
+[2023-11-24 16:19:20] info [rpc.52] Forwarding port 35169
+[2023-11-24 16:21:48] info [rpc.52] Unforwarding port 35169
+[2023-11-24 16:21:50] info [rpc.52] Forwarding port 42727
+[2023-11-24 16:54:18] info [tunnels::connections::ws] websocket pong timed out, closing
+[2023-11-24 16:54:18] warn Tunnel exited unexpectedly but gracefully, reconnecting
+[2023-11-24 16:54:18] info [rpc.52] Disposed of connection to running server.
+[2023-11-24 16:54:25] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 2
+[2023-11-24 16:54:25] info [russh::server] wrote id
+[2023-11-24 16:54:26] info [russh::server] read other id
+[2023-11-24 16:54:26] info [russh::server] session is running
+[2023-11-24 16:54:26] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 3
+[2023-11-24 16:54:26] info [russh::server] wrote id
+[2023-11-24 16:54:26] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 4
+[2023-11-24 16:54:26] info [russh::server] wrote id
+[2023-11-24 16:54:28] info [russh::server] read other id
+[2023-11-24 16:54:28] info [russh::server] session is running
+[2023-11-24 16:54:28] info [russh::server] read other id
+[2023-11-24 16:54:28] info [russh::server] session is running
+[2023-11-24 16:54:29] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 5
+[2023-11-24 16:54:29] info [russh::server] wrote id
+[2023-11-24 16:54:35] error [tunnels::connections::relay_tunnel_host] error handshaking session: EOF
+[2023-11-24 16:55:52] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 6
+[2023-11-24 16:55:52] info [russh::server] wrote id
+[2023-11-24 16:55:52] info [russh::server] read other id
+[2023-11-24 16:55:52] info [russh::server] session is running
+[2023-11-24 16:55:55] info [rpc.53] Checking /home/dai/.vscode-insiders/cli/servers/Insiders-aed074f18b4ac2cf2830fa9b57e1441b632fdddc/log.txt and /home/dai/.vscode-insiders/cli/servers/Insiders-aed074f18b4ac2cf2830fa9b57e1441b632fdddc/pid.txt for a running server...
+[2023-11-24 16:55:56] info [rpc.53] Downloading Visual Studio Code server -> /tmp/.tmpiYFIKL/vscode-server-linux-x64.tar.gz
+[2023-11-24 16:55:58] info [rpc.53] Starting server...
+[2023-11-24 16:55:58] info [rpc.53] Server started
+[2023-11-24 16:56:38] info [rpc.53] Forwarding port 33213
+[2023-11-24 16:56:38] info [rpc.53] Forwarding port 42305
+[2023-11-24 17:22:00] info [tunnels::connections::ws] websocket pong timed out, closing
+[2023-11-24 17:22:00] warn Tunnel exited unexpectedly but gracefully, reconnecting
+[2023-11-24 17:22:00] info [rpc.53] Disposed of connection to running server.
+[2023-11-24 17:24:15] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:26:26] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:28:45] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:30:56] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:33:22] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:35:33] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:38:02] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:40:13] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:42:49] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:45:00] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:47:40] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:49:51] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:52:37] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:54:48] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:57:38] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 17:59:49] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:02:45] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:04:56] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:07:56] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:10:07] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:13:12] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:15:23] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:18:33] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:20:44] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:23:59] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:26:10] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:29:30] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:31:42] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:35:06] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:37:17] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:40:48] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:42:59] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:46:34] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:48:46] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:52:27] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:54:38] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 18:58:23] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 19:00:34] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 19:04:24] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 19:06:35] warn Error refreshing access token, will retry: failed to lookup tunnel for host token: connection error: error sending request for url (https://inc1.rel.tunnels.api.visualstudio.com/api/v1/tunnels/x5tdq2cb?tokenScopes=host): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-24 19:10:30] warn failed to check Github token: error sending request for url (https://api.github.com/user): error trying to connect: tcp connect error: Connection timed out (os error 110)
+[2023-11-25 10:10:47] info closing tunnel and all clients after a shutdown request
+[2023-11-25 10:10:47] info Shutting down: RPC client requested shutdown

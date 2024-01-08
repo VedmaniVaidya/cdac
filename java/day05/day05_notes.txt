@@ -1,0 +1,10 @@
+1. An abstract method is a method with only declaration and no definition. Write keyword "abstract" in the method declaration.
+2. An abstract method can be written only inside abstract class however, an abstract can have abstract as well as concrete methods.
+3. We can't instantiate the abstract class. i.e can't create an object of abstract class.
+4. For any class it is mandatory to override all the abstract methods of its superclass else, we need to declare subclass also an abstract class.
+5. If all the methods of a class are abstract then, declare it as an interface rather than, an abstract class.
+6. All the methods of interface are by default abstract.
+7. A class can't be extended from multiple super classes (multiple inheritance is not supported) however, it can be implement multiple interface.
+8. One interface can extended other interfaces(s).
+9. Marker interface - An interface which do not have method declared inside that e.g. Serializalble, Cloneable.
+10. Functional interface- An interface which has only one method declared inside it. e.g Consumer, Predicate, Runnable.

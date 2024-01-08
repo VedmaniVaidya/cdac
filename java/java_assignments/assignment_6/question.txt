@@ -1,0 +1,9 @@
+Write a class Employee for an application which will have data members fir employee id, employee name and salary.
+Provide the following functionalitie in Employee class
+1. Initializing objects using the default and parameterized constructors.
+2. Accepting and displaying the information of the employee from console.
+
+In main method take a Vector of Employee objects. Write a menu driven program to-
+a. Insert record into a Vector.
+b. Update information of a specific employee ont the basis of emp_id accepted from user.
+c. Display all the records.
