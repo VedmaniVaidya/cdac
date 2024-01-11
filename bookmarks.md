@@ -4,3 +4,4 @@ https://huggingface.co/blog/accelerate-large-models
 https://huggingface.co/blog/mlabonne/merge-models
 https://huggingface.co/intfloat/e5-mistral-7b-instruct
 https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket
+https://huggingface.co/docs/accelerate/concept_guides/big_model_inference
