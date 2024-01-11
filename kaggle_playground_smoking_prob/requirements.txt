@@ -1,0 +1,10 @@
+weave
+pandas
+kaggle
+datasets
+wandb
+peft
+evaluate
+accelerate
+torchmetrics
+ipywidgets
